@@ -1,4 +1,4 @@
-# 1757. Recyclable and Low Fat Products (Easy)
+# 584. Find Customer Referee (Easy)
 
 #### [Link] 
 https://leetcode.com/problems/find-customer-referee/submissions/1592607981

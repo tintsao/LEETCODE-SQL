@@ -1,4 +1,4 @@
-# 1757. Recyclable and Low Fat Products (Easy)
+# 1757. Recyclable and Low Fat Products
 
 #### [Link] 
 https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/1592591638

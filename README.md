@@ -2,7 +2,8 @@
 My personal LeetCode solutions and algorithm notes.
 
 ### [Easy]
-[Solved Question]
+[Solved Question]  
+
   1757. Recyclable and Low Fat Products
 
 

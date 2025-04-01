@@ -1,4 +1,4 @@
-# 584. Find Customer Referee (Easy)
+# 584. Find Customer Referee
 
 #### [Link] 
 https://leetcode.com/problems/find-customer-referee/submissions/1592607981
